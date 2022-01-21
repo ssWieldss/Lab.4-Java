@@ -1,0 +1,486 @@
+нояб. 29, 2021 11:46:05 AM Lab4.Controller.My_Logger add_Log
+WARNING: Запуск программы
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+INFO: Выполнен вход в аккаунт user
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+INFO: Testing ArrayList
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+INFO: Тестирование создания ArrayList 10.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+INFO: Процесс заполнения ArrayList, состоящий из 10.0 занял 10600. Среднее время: 1060.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+INFO: Процесс удаления из ArrayList 1.0 элементов занял 7100. Среднее время: 71.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+INFO: Тестирование создания ArrayList 100.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+INFO: Процесс заполнения ArrayList, состоящий из 100.0 занял 27800. Среднее время: 278.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+INFO: Процесс удаления из ArrayList 10.0 элементов занял 4600. Среднее время: 4.6
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+INFO: Тестирование создания ArrayList 1000.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+INFO: Процесс заполнения ArrayList, состоящий из 1000.0 занял 153000. Среднее время: 153.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+INFO: Процесс удаления из ArrayList 100.0 элементов занял 52300. Среднее время: 5.2299999999999995
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+INFO: Тестирование создания ArrayList 10000.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+INFO: Процесс заполнения ArrayList, состоящий из 10000.0 занял 694900. Среднее время: 69.49
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+INFO: Процесс удаления из ArrayList 1000.0 элементов занял 1580400. Среднее время: 15.803999999999998
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+INFO: Тестирование создания ArrayList 100000.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+INFO: Процесс заполнения ArrayList, состоящий из 100000.0 занял 5705300. Среднее время: 57.053
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+INFO: Процесс удаления из ArrayList 100000.0 элементов занял 95165100. Среднее время: 95.1651
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+
+
+
+
+
+
+
+
+
+
+INFO: Testing LinkedList
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 10.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 10.0 занял 16000. Среднее время: 1600.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 1.0 элементов занял 33000. Среднее время: 330.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 100.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 100.0 занял 20500. Среднее время: 205.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 10.0 элементов занял 24500. Среднее время: 24.5
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 1000.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 1000.0 занял 294000. Среднее время: 294.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 100.0 элементов занял 356900. Среднее время: 35.69
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 10000.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 10000.0 занял 597900. Среднее время: 59.79
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 1000.0 элементов занял 2489100. Среднее время: 24.891
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 100000.0
+нояб. 29, 2021 11:46:11 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 100000.0 занял 5806300. Среднее время: 58.063
+нояб. 29, 2021 11:46:12 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 10000.0 элементов занял 173439300. Среднее время: 173.4393
+
+
+///Новые данные
+
+
+нояб. 29, 2021 11:56:02 AM Lab4.Controller.My_Logger add_Log
+WARNING: Запуск программы
+нояб. 29, 2021 11:56:09 AM Lab4.Controller.My_Logger add_Log
+INFO: Выполнен вход в аккаунт user
+нояб. 29, 2021 11:56:09 AM Lab4.Controller.My_Logger add_Log
+INFO: Testing ArrayList
+нояб. 29, 2021 11:56:21 AM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 10.0
+нояб. 29, 2021 11:57:13 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 10.0 занял 10617390500. Среднее время: 1.06173905E9
+нояб. 29, 2021 11:57:28 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 1.0 элементов занял 932124500. Среднее время: 9321245.0
+нояб. 29, 2021 11:57:30 AM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 100.0
+нояб. 29, 2021 11:57:30 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 100.0 занял 118400. Среднее время: 1184.0
+нояб. 29, 2021 11:57:30 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 10.0 элементов занял 16200. Среднее время: 16.2
+нояб. 29, 2021 11:57:30 AM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 1000.0
+нояб. 29, 2021 11:57:30 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 1000.0 занял 1036900. Среднее время: 1036.9
+нояб. 29, 2021 11:57:30 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 100.0 элементов занял 161100. Среднее время: 16.11
+нояб. 29, 2021 11:57:30 AM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 10000.0
+нояб. 29, 2021 11:57:30 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 10000.0 занял 11189800. Среднее время: 1118.98
+нояб. 29, 2021 11:57:30 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 1000.0 элементов занял 4234900. Среднее время: 42.349000000000004
+нояб. 29, 2021 11:57:30 AM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 100000.0
+нояб. 29, 2021 11:58:06 AM Lab4.Controller.My_Logger add_Log
+WARNING: Запуск программы
+нояб. 29, 2021 11:58:10 AM Lab4.Controller.My_Logger add_Log
+INFO: Выполнен вход в аккаунт user
+нояб. 29, 2021 11:58:10 AM Lab4.Controller.My_Logger add_Log
+INFO: Testing ArrayList
+нояб. 29, 2021 11:58:10 AM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 10.0
+нояб. 29, 2021 11:58:10 AM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 10.0 занял 11700. Среднее время: 1170.0
+янв. 13, 2022 12:06:17 PM Lab4.Controller.My_Logger add_Log
+WARNING: Запуск программы
+янв. 13, 2022 12:10:18 PM Lab4.Controller.My_Logger add_Log
+WARNING: Запуск программы
+янв. 13, 2022 12:10:53 PM Lab4.Controller.My_Logger add_Log
+WARNING: Запуск программы
+янв. 13, 2022 12:19:41 PM Lab4.Controller.My_Logger add_Log
+WARNING: Запуск программы
+янв. 13, 2022 12:19:45 PM Lab4.Controller.My_Logger add_Log
+WARNING: Запуск программы
+янв. 13, 2022 12:31:17 PM Lab4.Controller.My_Logger add_Log
+WARNING: Запуск программы
+янв. 13, 2022 12:31:21 PM Lab4.Controller.My_Logger add_Log
+INFO: Выполнен вход в аккаунт user
+янв. 13, 2022 12:31:21 PM Lab4.Controller.My_Logger add_Log
+INFO: Testing ArrayList
+янв. 13, 2022 12:31:21 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 10.0
+янв. 13, 2022 12:31:21 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 10.0 занял 14300. Среднее время: 1430.0
+янв. 13, 2022 12:32:08 PM Lab4.Controller.My_Logger add_Log
+WARNING: Запуск программы
+янв. 13, 2022 12:32:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Выполнен вход в аккаунт user
+янв. 13, 2022 12:32:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Testing ArrayList
+янв. 13, 2022 12:32:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 10.0
+янв. 13, 2022 12:32:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 10.0 занял 12500. Среднее время: 1250.0
+янв. 13, 2022 12:34:05 PM Lab4.Controller.My_Logger add_Log
+WARNING: Запуск программы
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Выполнен вход в аккаунт user
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Testing ArrayList
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 10.0
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 10.0 занял 15102. Среднее время: 1510.2
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 1.0 элементов занял 6100. Среднее время: 61.0
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 100.0
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 100.0 занял 17102. Среднее время: 171.02
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 10.0 элементов занял 4402. Среднее время: 4.402
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 1000.0
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 1000.0 занял 157986. Среднее время: 157.986
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 100.0 элементов занял 52397. Среднее время: 5.2397
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 10000.0
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 10000.0 занял 691638. Среднее время: 69.1638
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 1000.0 элементов занял 1433761. Среднее время: 14.337610000000002
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 100000.0
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 100000.0 занял 5907909. Среднее время: 59.07909
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 10000.0 элементов занял 96618388. Среднее время: 96.61838800000001
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Testing LinkedList
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 10.0
+янв. 13, 2022 12:34:12 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 10.0 занял 16400. Среднее время: 1640.0
+янв. 13, 2022 12:34:28 PM Lab4.Controller.My_Logger add_Log
+WARNING: Запуск программы
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Выполнен вход в аккаунт user
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Testing ArrayList
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 10.0
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 10.0 занял 10202. Среднее время: 1020.2
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 1.0 элементов занял 6400. Среднее время: 64.0
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 100.0
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 100.0 занял 16899. Среднее время: 168.99
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 10.0 элементов занял 4602. Среднее время: 4.602
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 1000.0
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 1000.0 занял 153299. Среднее время: 153.299
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 100.0 элементов занял 54299. Среднее время: 5.4299
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 10000.0
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 10000.0 занял 695311. Среднее время: 69.5311
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 1000.0 элементов занял 1909109. Среднее время: 19.09109
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 100000.0
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 100000.0 занял 5630775. Среднее время: 56.30775
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 10000.0 элементов занял 98873208. Среднее время: 98.873208
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Testing LinkedList
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 10.0
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 10.0 занял 15601. Среднее время: 1560.1
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 1.0 элементов занял 34001. Среднее время: 340.01
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 100.0
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 100.0 занял 21103. Среднее время: 211.03
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 10.0 элементов занял 24604. Среднее время: 24.604
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 1000.0
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 1000.0 занял 227798. Среднее время: 227.798
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 100.0 элементов занял 289295. Среднее время: 28.9295
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 10000.0
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 10000.0 занял 583694. Среднее время: 58.3694
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 1000.0 элементов занял 2441560. Среднее время: 24.4156
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 100000.0
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 100000.0 занял 5805743. Среднее время: 58.05743
+янв. 13, 2022 12:34:32 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 10000.0 элементов занял 171464007. Среднее время: 171.46400699999998
+янв. 13, 2022 4:36:52 PM Lab4.Controller.My_Logger add_Log
+WARNING: Запуск программы
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Выполнен вход в аккаунт user
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Testing ArrayList
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 10.0
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 10.0 занял 5199. Среднее время: 519.9
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 1.0 элементов занял 8100. Среднее время: 81.0
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 100.0
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 100.0 занял 10503. Среднее время: 105.03
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 10.0 элементов занял 4700. Среднее время: 4.7
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 1000.0
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 1000.0 занял 161923. Среднее время: 161.923
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 100.0 элементов занял 56003. Среднее время: 5.6003
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 10000.0
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 10000.0 занял 524097. Среднее время: 52.4097
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 1000.0 элементов занял 1442518. Среднее время: 14.425180000000001
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 100000.0
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 100000.0 занял 5254321. Среднее время: 52.54321
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 10000.0 элементов занял 97969383. Среднее время: 97.96938300000001
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Testing LinkedList
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 10.0
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 10.0 занял 11097. Среднее время: 1109.7
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 1.0 элементов занял 28297. Среднее время: 282.96999999999997
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 100.0
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 100.0 занял 12699. Среднее время: 126.99
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 10.0 элементов занял 16100. Среднее время: 16.1
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 1000.0
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 1000.0 занял 128191. Среднее время: 128.191
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 100.0 элементов занял 188593. Среднее время: 18.859299999999998
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 10000.0
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 10000.0 занял 408855. Среднее время: 40.8855
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 1000.0 элементов занял 2392943. Среднее время: 23.92943
+янв. 13, 2022 4:37:00 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 100000.0
+янв. 13, 2022 4:37:01 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 100000.0 занял 4284976. Среднее время: 42.84976
+янв. 13, 2022 4:37:01 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 10000.0 элементов занял 173424274. Среднее время: 173.424274
+янв. 13, 2022 5:39:17 PM Lab4.Controller.My_Logger add_Log
+WARNING: Запуск программы
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Выполнен вход в аккаунт user
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Testing ArrayList
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 10.0
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 10.0 занял 4700. Среднее время: 470.0
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 1.0 элементов занял 15200. Среднее время: 152.0
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 100.0
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 100.0 занял 11300. Среднее время: 113.0
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 10.0 элементов занял 5000. Среднее время: 5.0
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 1000.0
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 1000.0 занял 106200. Среднее время: 106.2
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 100.0 элементов занял 55500. Среднее время: 5.55
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 10000.0
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 10000.0 занял 694500. Среднее время: 69.45
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 1000.0 элементов занял 2120700. Среднее время: 21.207
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 100000.0
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 100000.0 занял 6006500. Среднее время: 60.065
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 10000.0 элементов занял 89336500. Среднее время: 89.3365
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Testing LinkedList
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 10.0
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 10.0 занял 10600. Среднее время: 1060.0
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 1.0 элементов занял 29500. Среднее время: 295.0
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 100.0
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 100.0 занял 12800. Среднее время: 128.0
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 10.0 элементов занял 16500. Среднее время: 16.5
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 1000.0
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 1000.0 занял 189300. Среднее время: 189.3
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 100.0 элементов занял 250100. Среднее время: 25.009999999999998
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 10000.0
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 10000.0 занял 1784200. Среднее время: 178.42
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 1000.0 элементов занял 7115600. Среднее время: 71.15599999999999
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 100000.0
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 100000.0 занял 8490000. Среднее время: 84.9
+янв. 13, 2022 5:39:24 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 10000.0 элементов занял 171764400. Среднее время: 171.7644
+янв. 13, 2022 5:40:04 PM Lab4.Controller.My_Logger add_Log
+WARNING: Запуск программы
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Выполнен вход в аккаунт user
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Testing ArrayList
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 10.0
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 10.0 занял 5100. Среднее время: 510.0
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 1.0 элементов занял 6400. Среднее время: 64.0
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 100.0
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 100.0 занял 11500. Среднее время: 115.0
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 10.0 элементов занял 3900. Среднее время: 3.9
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 1000.0
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 1000.0 занял 153700. Среднее время: 153.7
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 100.0 элементов занял 53000. Среднее время: 5.3
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 10000.0
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 10000.0 занял 583600. Среднее время: 58.36
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 1000.0 элементов занял 1494500. Среднее время: 14.944999999999999
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания ArrayList 100000.0
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения ArrayList, состоящий из 100000.0 занял 4719100. Среднее время: 47.191
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из ArrayList 10000.0 элементов занял 92863400. Среднее время: 92.8634
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Testing LinkedList
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 10.0
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 10.0 занял 11700. Среднее время: 1170.0
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 1.0 элементов занял 28800. Среднее время: 288.0
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 100.0
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 100.0 занял 14200. Среднее время: 142.0
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 10.0 элементов занял 18200. Среднее время: 18.2
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 1000.0
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 1000.0 занял 125800. Среднее время: 125.8
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 100.0 элементов занял 187800. Среднее время: 18.78
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 10000.0
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 10000.0 занял 407400. Среднее время: 40.74
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 1000.0 элементов занял 2291200. Среднее время: 22.912
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Тестирование создания LinkedList 100000.0
+янв. 13, 2022 5:40:08 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс заполнения LinkedList, состоящий из 100000.0 занял 3895500. Среднее время: 38.955
+янв. 13, 2022 5:40:09 PM Lab4.Controller.My_Logger add_Log
+INFO: Процесс удаления из LinkedList 10000.0 элементов занял 169799200. Среднее время: 169.79919999999998
